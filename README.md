@@ -7,7 +7,7 @@
 
 
 
-- 🌱  i'm currently learning **Node.js**
+- 🌱  i'm currently learning **python**
 
 - 📫  How to reach me **azriaor@gmail.com**
  
