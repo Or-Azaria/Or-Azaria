@@ -6,9 +6,6 @@
 
 
 
-
-- 🌱  i'm currently learning **python**
-
 - 📫  How to reach me **azriaor@gmail.com**
  
 - ⚡  Fun fact **i am funny**
