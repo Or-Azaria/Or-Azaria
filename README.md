@@ -20,7 +20,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avielsheto&show_icons=true&locale=en&layout=compact" alt="avielsheto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=or-azaria&show_icons=true&locale=en&layout=compact" alt="or-azaria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avielsheto&" alt="avielsheto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=or-azaria&" alt="or-azaria" /></p>
 
